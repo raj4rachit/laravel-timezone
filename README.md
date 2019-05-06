@@ -1,4 +1,4 @@
-# Clear All Cached Data, Route, View, Config data
+# Display Time form Time zone
 
 This package helps you to clear all cached data in single command.
 
@@ -9,7 +9,7 @@ This package helps you to clear all cached data in single command.
 You can install the package via composer:
 
 ```bash
-composer require r_blaster/all-clear-cached-data
+composer require r_blaster/laravel-timezone
 ```
 
 ### Usage
